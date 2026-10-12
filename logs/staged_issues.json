@@ -1,0 +1,53 @@
+[
+  {
+    "type": "conflict",
+    "detail": "S1 reports Q1 revenue from operations rose 35% to ₹1,428 crore, whereas S3 reports Q1 FY27 revenue was ₹1,248 crore (an 18.0% increase from ₹1,058 crore in Q1 FY26).",
+    "sources": [
+      "S1",
+      "S3"
+    ],
+    "resolution": "Trust S3. Company financial release (authority 2) supersedes third-party news media (authority 3), which appears to have transposed digits (1,428 vs 1,248)."
+  },
+  {
+    "type": "unverified",
+    "detail": "Management claims the ₹46.3 crore GST demand order will have no material impact on its financial position or operations. However, the ₹46.3 crore risk is significant against reported bases: it represents 56.46% of Q1 FY27 PAT (₹46.3 crore / ₹82 crore * 100 = 56.46%) and 33.07% of Q1 FY27 EBITDA (₹46.3 crore / ₹140 crore * 100 = 33.07%). Dismissing this liability as immaterial without judicial relief is unverified and self-serving.",
+    "sources": [
+      "S3",
+      "S6"
+    ],
+    "resolution": "Treat as an unverified management assertion. Require legal counsel review and reserve adequacy assessment until an appellate stay or waiver is granted."
+  },
+  {
+    "type": "unverified",
+    "detail": "Management attributes the increase in receivable days from 78 to 96 days solely to payment delays from two state utilities and asserts no customer defaults have occurred, without independent audit verification of provisions or expected credit loss (ECL).",
+    "sources": [
+      "S2"
+    ],
+    "resolution": "Treat with skepticism until audited working capital and aging schedules for utility receivables are disclosed."
+  },
+  {
+    "type": "stale",
+    "detail": "S4 reports promoter pledged holding rose to 35% as of March 2024. This information is over two years stale relative to the audit date of 2026-09-23 and has been superseded by current regulatory filings.",
+    "sources": [
+      "S4",
+      "S7"
+    ],
+    "resolution": "Trust S7 (regulatory exchange filing, authority 1), which confirms promoter pledged holding was 4.1% as of June 2026."
+  },
+  {
+    "type": "missing",
+    "detail": "The pack lacks the outcome or filing status of the appeal against the ₹46.3 crore GST order, including whether any mandatory pre-deposit (typically 10-20% under GST statutes) was paid or stayed.",
+    "sources": [
+      "S6"
+    ],
+    "resolution": "Obtain subsequent regulatory disclosures or litigation updates regarding the GST appellate authority filing."
+  },
+  {
+    "type": "missing",
+    "detail": "The pack does not provide the current market share price as of 2026-09-23, providing only the post-earnings Friday close of ₹1,012.",
+    "sources": [
+      "S1"
+    ],
+    "resolution": "Fetch current NSE/BSE market quote as of 2026-09-23 to assess valuation and post-earnings performance."
+  }
+]

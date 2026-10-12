@@ -1,0 +1,58 @@
+[
+  {
+    "id": "S1",
+    "same_entity": true,
+    "authority": 3,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Current news coverage of Q1 results capturing stock price reaction and analyst commentary, despite minor revenue misreporting."
+  },
+  {
+    "id": "S2",
+    "same_entity": true,
+    "authority": 2,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Official management transcript detailing FY27 revenue guidance, margin dynamics, Bharuch capex, and receivable trends."
+  },
+  {
+    "id": "S3",
+    "same_entity": true,
+    "authority": 2,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Official company press release containing audited consolidated Q1 FY27 financial results and capacity expansion updates."
+  },
+  {
+    "id": "S4",
+    "same_entity": true,
+    "authority": 3,
+    "freshness": "dated",
+    "verdict": "downweight",
+    "reason": "News article from March 2024 regarding promoter pledge that is superseded by recent shareholding filings showing a sharp reduction."
+  },
+  {
+    "id": "S5",
+    "same_entity": false,
+    "authority": 3,
+    "freshness": "current",
+    "verdict": "exclude",
+    "reason": "Refers to an unrelated local cable TV and broadband provider in Nagpur operated by Suresh Patil, not the listed cable manufacturer."
+  },
+  {
+    "id": "S6",
+    "same_entity": true,
+    "authority": 1,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Mandatory regulatory exchange disclosure regarding a material ₹46.3 crore GST demand order."
+  },
+  {
+    "id": "S7",
+    "same_entity": true,
+    "authority": 1,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Authoritative NSE exchange filing detailing the latest shareholding pattern and promoter pledge levels as of June 2026."
+  }
+]

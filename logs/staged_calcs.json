@@ -1,0 +1,29 @@
+[
+  {
+    "label": "Revenue from operations YoY",
+    "src": "S3",
+    "current": 1248,
+    "previous": 1058,
+    "stated_pct": 18.0,
+    "recomputed_pct": 18.0,
+    "matches": true
+  },
+  {
+    "label": "EBITDA YoY",
+    "src": "S3",
+    "current": 140,
+    "previous": 136,
+    "stated_pct": 2.6,
+    "recomputed_pct": 2.9,
+    "matches": false
+  },
+  {
+    "label": "Profit after tax YoY",
+    "src": "S3",
+    "current": 82,
+    "previous": 77,
+    "stated_pct": 5.9,
+    "recomputed_pct": 6.5,
+    "matches": false
+  }
+]

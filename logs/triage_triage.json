@@ -1,0 +1,58 @@
+[
+  {
+    "id": "S1",
+    "same_entity": true,
+    "authority": 3,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Recent news report covering Q1 FY27 financial results and market reaction, though official filings provide the primary figures."
+  },
+  {
+    "id": "S2",
+    "same_entity": true,
+    "authority": 2,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Official earnings call transcript providing current management guidance, Bharuch capex progress, and operational commentary."
+  },
+  {
+    "id": "S3",
+    "same_entity": true,
+    "authority": 2,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Primary company press release detailing Q1 FY27 financial performance, order book status, and capacity expansion."
+  },
+  {
+    "id": "S4",
+    "same_entity": true,
+    "authority": 3,
+    "freshness": "stale",
+    "verdict": "downweight",
+    "reason": "Outdated 2024 news article on promoter pledge levels that has been superseded by current regulatory filings."
+  },
+  {
+    "id": "S5",
+    "same_entity": false,
+    "authority": 3,
+    "freshness": "current",
+    "verdict": "exclude",
+    "reason": "Refers to an unrelated local cable TV and broadband operator in Nagpur rather than the listed power cable manufacturer."
+  },
+  {
+    "id": "S6",
+    "same_entity": true,
+    "authority": 1,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Official regulatory exchange filing disclosing a material ₹46.3 crore GST demand order."
+  },
+  {
+    "id": "S7",
+    "same_entity": true,
+    "authority": 1,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Authoritative exchange filing showing latest shareholding pattern and reduced promoter pledge levels as of June 2026."
+  }
+]
