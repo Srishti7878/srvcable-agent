@@ -1,0 +1,54 @@
+[
+  {
+    "type": "conflict",
+    "detail": "S1 reports Q1 revenue from operations of ₹1,428 crore (a 35% increase), whereas official company release S3 reports Q1 FY27 revenue from operations of ₹1,248 crore (up 18.0% from ₹1,058 crore in Q1 FY26).",
+    "sources": [
+      "S1",
+      "S3"
+    ],
+    "resolution": "Trust S3. According to the authority hierarchy (exchange filing > company release/transcript > news), company release S3 (authority 2) supersedes third-party news source S1 (authority 3), which appears to have an inverted digit typo (1,428 vs 1,248)."
+  },
+  {
+    "type": "stale",
+    "detail": "S4 reports promoter pledged holding rose to 35% as of March 2024, which is over two years old as of 2026-09-23 and presents an outdated risk profile.",
+    "sources": [
+      "S4",
+      "S7"
+    ],
+    "resolution": "Rely on S7, an authoritative exchange filing showing promoter pledge has progressively decreased to 11.5% in June 2025, 6.0% in March 2026, and 4.1% of promoter holding as of June 2026."
+  },
+  {
+    "type": "unverified",
+    "detail": "Management claims the company has a strong case on merits and expects no material impact from the ₹46.3 crore CGST demand order. However, the ₹46.3 crore liability constitutes 56.46% of Q1 FY27 PAT (₹46.3 crore / ₹82.0 crore) and 33.07% of Q1 FY27 EBITDA (₹46.3 crore / ₹140.0 crore), representing a material financial exposure if upheld.",
+    "sources": [
+      "S3",
+      "S6"
+    ],
+    "resolution": "Treat management's assertion of 'no material impact' as an unverified and self-serving claim until an appellate authority or court grants a stay or overturns the order."
+  },
+  {
+    "type": "unverified",
+    "detail": "Management claims the rise in receivable days from 78 to 96 is solely due to slow payments from two state utility customers and that the company has not experienced any customer defaults, while simultaneously asserting an ability to fully pass on copper cost increases over 1-2 quarters without losing volumes or seeing competitor irrational pricing.",
+    "sources": [
+      "S2",
+      "S3"
+    ],
+    "resolution": "Verify receivable aging, provisions for expected credit losses (ECL), and contract price escalation enforcement in audited half-year/annual financial statements."
+  },
+  {
+    "type": "missing",
+    "detail": "The pack lacks the current status and outcome of the GST appeal (e.g., whether an appeal was formally filed, mandatory pre-deposit paid, or interim stay obtained against the ₹46.3 crore demand).",
+    "sources": [
+      "S6"
+    ],
+    "resolution": "Retail investors should check the latest exchange disclosures under SEBI LODR Regulation 30 for litigation updates and contingent liability provisions."
+  },
+  {
+    "type": "missing",
+    "detail": "The pack lacks the current share price and valuation multiples as of 2026-09-23, providing only an immediate post-earnings Friday closing price of ₹1,012.",
+    "sources": [
+      "S1"
+    ],
+    "resolution": "Obtain live/current NSE/BSE quotes and prevailing valuation multiples (P/E, EV/EBITDA) to evaluate investment entry levels."
+  }
+]

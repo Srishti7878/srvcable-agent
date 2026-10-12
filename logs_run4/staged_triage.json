@@ -1,0 +1,58 @@
+[
+  {
+    "id": "S1",
+    "same_entity": true,
+    "authority": 3,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Current news coverage detailing Q1 FY27 earnings and market reaction, though containing an apparent revenue discrepancy versus official figures."
+  },
+  {
+    "id": "S2",
+    "same_entity": true,
+    "authority": 2,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Current earnings call transcript offering primary management insights on margin pressures, Bharuch plant capex, and receivable cycles."
+  },
+  {
+    "id": "S3",
+    "same_entity": true,
+    "authority": 2,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Authoritative company press release detailing official Q1 FY27 financial performance and expansion timelines."
+  },
+  {
+    "id": "S4",
+    "same_entity": true,
+    "authority": 3,
+    "freshness": "stale",
+    "verdict": "downweight",
+    "reason": "Dated March 2024 news report on promoter pledging that has been superseded by recent regulatory filings."
+  },
+  {
+    "id": "S5",
+    "same_entity": false,
+    "authority": 3,
+    "freshness": "current",
+    "verdict": "exclude",
+    "reason": "Concerns an unrelated Nagpur cable TV and internet service provider rather than the listed power cables manufacturer."
+  },
+  {
+    "id": "S6",
+    "same_entity": true,
+    "authority": 1,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Recent official exchange filing under Regulation 30 detailing a material ₹46.3 crore tax demand order."
+  },
+  {
+    "id": "S7",
+    "same_entity": true,
+    "authority": 1,
+    "freshness": "current",
+    "verdict": "include",
+    "reason": "Authoritative exchange filing providing the latest shareholding distribution and updated promoter pledge levels as of June 2026."
+  }
+]

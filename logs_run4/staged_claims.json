@@ -1,0 +1,267 @@
+{
+  "claims": [
+    {
+      "id": "C1",
+      "src": "S1",
+      "text": "Sarvottam Cables reported Q1 revenue from operations of ₹1,428 crore, a 35% increase from the year-ago period",
+      "kind": "fact"
+    },
+    {
+      "id": "C2",
+      "src": "S1",
+      "text": "Sarvottam Cables Q1 net profit rose about 6% to ₹82 crore",
+      "kind": "fact"
+    },
+    {
+      "id": "C3",
+      "src": "S1",
+      "text": "Sarvottam Cables operating margins contracted by 170 basis points to 11.2%",
+      "kind": "fact"
+    },
+    {
+      "id": "C4",
+      "src": "S1",
+      "text": "Copper prices rose nearly 14% during the quarter",
+      "kind": "fact"
+    },
+    {
+      "id": "C5",
+      "src": "S1",
+      "text": "A Mumbai-based analyst stated that the volume story is intact, but investors will watch whether the company can pass on higher copper costs",
+      "kind": "third_party"
+    },
+    {
+      "id": "C6",
+      "src": "S1",
+      "text": "Sarvottam Cables shares fell 3.2% to ₹1,012 on the NSE on Friday following the results",
+      "kind": "fact"
+    },
+    {
+      "id": "C7",
+      "src": "S2",
+      "text": "Sarvottam Cables is maintaining its FY27 full-year revenue growth guidance of 15 to 17 percent",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C8",
+      "src": "S2",
+      "text": "The Bharuch facility will contribute to revenue from the second half of FY27",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C9",
+      "src": "S2",
+      "text": "Data-centre cables account for about 9 percent of domestic revenue",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C10",
+      "src": "S2",
+      "text": "Management expects data-centre cable revenue share can double in two years",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C11",
+      "src": "S2",
+      "text": "Margin contraction was mostly due to copper costs",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C12",
+      "src": "S2",
+      "text": "About two-thirds of contracts have price-variation clauses that reset with a lag of one to two quarters",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C13",
+      "src": "S2",
+      "text": "The company is not seeing irrational pricing from competitors",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C14",
+      "src": "S2",
+      "text": "Receivable days increased from 78 to 96 over the last year",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C15",
+      "src": "S2",
+      "text": "The increase in receivable days is mainly due to two large state utility customers where payments are slower",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C16",
+      "src": "S2",
+      "text": "The company has not seen any customer defaults",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C17",
+      "src": "S2",
+      "text": "Total capex for the Bharuch plant is ₹620 crore, of which about 70 percent is already spent",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C18",
+      "src": "S2",
+      "text": "Bharuch capex is funded mainly through internal accruals and some term debt",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C19",
+      "src": "S2",
+      "text": "Net debt to equity is 0.35 times",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C20",
+      "src": "S3",
+      "text": "Revenue from operations was ₹1,248 crore in Q1 FY27 compared to ₹1,058 crore in Q1 FY26, up 18.0%",
+      "kind": "fact"
+    },
+    {
+      "id": "C21",
+      "src": "S3",
+      "text": "EBITDA was ₹140 crore in Q1 FY27 compared to ₹136 crore in Q1 FY26, up 2.6%",
+      "kind": "fact"
+    },
+    {
+      "id": "C22",
+      "src": "S3",
+      "text": "EBITDA margin was 11.2% in Q1 FY27 compared to 12.9% in Q1 FY26, down 170 bps",
+      "kind": "fact"
+    },
+    {
+      "id": "C23",
+      "src": "S3",
+      "text": "Profit after tax was ₹82 crore in Q1 FY27 compared to ₹77 crore in Q1 FY26, up 5.9%",
+      "kind": "fact"
+    },
+    {
+      "id": "C24",
+      "src": "S3",
+      "text": "Order book stood at ₹3,900 crore as of 30 June 2026, up from ₹3,150 crore a year ago",
+      "kind": "fact"
+    },
+    {
+      "id": "C25",
+      "src": "S3",
+      "text": "Exports contributed 21% of revenue in Q1 FY27 compared to 16% in Q1 FY26",
+      "kind": "fact"
+    },
+    {
+      "id": "C26",
+      "src": "S3",
+      "text": "The new Bharuch plant will add about 30% to cable capacity",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C27",
+      "src": "S3",
+      "text": "The Bharuch plant is on track to begin commercial production in Q3 FY27",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C28",
+      "src": "S3",
+      "text": "MD Anil Deshpande stated demand from power transmission and data-centre projects remains strong",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C29",
+      "src": "S3",
+      "text": "Management expects to pass on copper price increases to customers over the next two quarters",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C30",
+      "src": "S4",
+      "text": "Promoter pledged holding at Sarvottam Cables rose to 35% as of March 2024, up from 22% six months prior",
+      "kind": "fact"
+    },
+    {
+      "id": "C31",
+      "src": "S4",
+      "text": "Market Watch India reported high promoter pledging is often seen as a risk for minority shareholders",
+      "kind": "third_party"
+    },
+    {
+      "id": "C32",
+      "src": "S6",
+      "text": "Sarvottam Cables received an order from the Joint Commissioner, CGST, Mumbai raising a demand of ₹46.3 crore including interest and penalty",
+      "kind": "fact"
+    },
+    {
+      "id": "C33",
+      "src": "S6",
+      "text": "The GST demand relates to input tax credit claimed for FY2020-21 and FY2021-22",
+      "kind": "fact"
+    },
+    {
+      "id": "C34",
+      "src": "S6",
+      "text": "The company believes it has a strong case on merits based on legal advice and intends to file an appeal",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C35",
+      "src": "S6",
+      "text": "The company does not expect any material impact on its financial position or operations from the GST demand",
+      "kind": "management_claim"
+    },
+    {
+      "id": "C36",
+      "src": "S7",
+      "text": "Promoters & promoter group held 58.2% of shares as of June 2026, 58.2% as of March 2026, and 58.4% as of June 2025",
+      "kind": "fact"
+    },
+    {
+      "id": "C37",
+      "src": "S7",
+      "text": "Pledged shares as a percentage of promoter holding were 4.1% in June 2026, 6.0% in March 2026, and 11.5% in June 2025",
+      "kind": "fact"
+    },
+    {
+      "id": "C38",
+      "src": "S7",
+      "text": "FII holding was 11.8% in June 2026, 10.9% in March 2026, and 9.2% in June 2025",
+      "kind": "fact"
+    },
+    {
+      "id": "C39",
+      "src": "S7",
+      "text": "DII holding was 14.6% in June 2026, 14.1% in March 2026, and 12.7% in June 2025",
+      "kind": "fact"
+    },
+    {
+      "id": "C40",
+      "src": "S7",
+      "text": "Public and others holding was 15.4% in June 2026, 16.8% in March 2026, and 19.7% in June 2025",
+      "kind": "fact"
+    }
+  ],
+  "calcs": [
+    {
+      "label": "Revenue from operations YoY",
+      "src": "S3",
+      "current": 1248,
+      "previous": 1058,
+      "stated_pct": 18.0
+    },
+    {
+      "label": "EBITDA YoY",
+      "src": "S3",
+      "current": 140,
+      "previous": 136,
+      "stated_pct": 2.6
+    },
+    {
+      "label": "PAT YoY",
+      "src": "S3",
+      "current": 82,
+      "previous": 77,
+      "stated_pct": 5.9
+    }
+  ]
+}
