@@ -1,0 +1,3 @@
+openai>=1.40.0
+# only needed if you run with PROVIDER=anthropic:
+# anthropic>=0.40.0
